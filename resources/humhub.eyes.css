@@ -1,0 +1,46 @@
+.eyes,.eye,.eye-inner {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.eyes {
+	height: 30px;
+	width: 60px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.eye {
+	display: flex;
+	width: 30px;
+	height: 30px;
+}
+
+.eye-left {
+	left: 0px;
+}
+
+.eye-right {
+	right: 0px;
+}
+
+.eye-inner {
+	position: relative;
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	background-color: white;
+	border-radius: 50%;
+	border: 1px solid black;
+}
+
+.eye-inner:after {
+	position: absolute;
+	top: 0px;
+	left: 7px;
+	width: 16px;
+	height: 16px;
+	background-color: black;
+	border-radius: 50%;
+	content: " ";
+}

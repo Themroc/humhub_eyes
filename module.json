@@ -1,0 +1,10 @@
+{
+	"id": "eyes",
+	"name": "Eyes",
+	"description": "Good ol eyes that follow the mouse pointer",
+	"keywords": [],
+	"version": "0.1",
+	"humhub": {"minVersion": "1.6"},
+	"homepage": "https://github.com/Themroc/humhub_eyes",
+	"screenshots": ["assets/screen1.jpg"]
+}
