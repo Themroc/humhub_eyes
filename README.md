@@ -1,6 +1,9 @@
 ### Description
 Good ol' eyes that follow the mouse pointer. This version also says "ouch" when you poke it.
 
+### Screenshot
+![Themroc/humhub_eyes screenshot](https://raw.githubusercontent.com/Themroc/humhub_eyes/master/assets/screen1.jpg)
+
 ### Installation
 
 Extract this into */protected/modules and activate the
